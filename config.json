@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricsealidate",
+        "uuid": 6410720,
+        "checksum": "o6p0ze"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
